@@ -22,34 +22,23 @@ function processMenu() {
       icon: 'https://ping.pub/logo.svg',
     })
   }
-  chainMenus.push({ header: 'sponsors' })
-  chainMenus.push({
-    title: 'Becole',
-    href: 'https://becole.com',
-    logo: 'https://becole.com/static/logo/logo_becole.png',
-  })
-  chainMenus.push({
-    title: 'Osmosis',
-    href: 'https://app.osmosis.zone',
-    logo: 'https://ping.pub/logos/osmosis.jpg',
-  })
   chainMenus.push({ header: 'LINKS' })
   if (isTestnet()) {
     chainMenus.push({
       title: 'Mainnet Explorer',
-      href: 'https://ping.pub',
+      href: 'https://explorer.kaelvnode.xyz',
       icon: 'ChromeIcon',
     })
   } else {
     chainMenus.push({
       title: 'Testnet Explorer',
-      href: 'http://testnet.ping.pub',
+      href: 'https://explorer.kaelvnode.xyz/',
       icon: 'LifeBuoyIcon',
     })
   }
   chainMenus.push({
     title: 'Twitter',
-    href: 'https://twitter.com/ping_pub',
+    href: 'https://twitter.com/Kaelvin21',
     icon: 'TwitterIcon',
   })
   chainMenus.push({
@@ -59,7 +48,7 @@ function processMenu() {
   })
   chainMenus.push({
     title: 'Github',
-    href: 'https://github.com/ping-pub/explorer',
+    href: 'https://github.com/KaelVNode/explorer',
     icon: 'GithubIcon',
   })
 
