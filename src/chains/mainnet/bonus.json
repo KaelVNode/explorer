@@ -1,0 +1,18 @@
+{
+    "chain_name": "bonus-block",
+    "api": ["https://bonus-api.dwentz.xyz"],
+    "rpc": ["https://bonus-rpc.dwentz.xyz"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.11",
+    "coin_type": "118",
+    "min_tx_fee": "500000",
+    "addr_prefix": "bonus",
+    "logo": "https://user-images.githubusercontent.com/118625308/226153202-b7326561-bb14-4e70-940a-c17eda7702b7.svg",
+    "assets": [{
+        "base": "ubonus",
+        "symbol": "BONUS",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "https://user-images.githubusercontent.com/118625308/226153202-b7326561-bb14-4e70-940a-c17eda7702b7.svg"
+    }]
+}

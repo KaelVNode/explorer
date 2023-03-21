@@ -1,0 +1,27 @@
+{
+    "chain_name": "8ball",
+    "coingecko": "",
+    "api": [
+        "https://rest.8ball.info",
+        "https://8ball-api.dwentz.xyz"
+
+    ],
+    "rpc": [
+        "https://rpc.8ball.info",
+        "https://8ball-rpc.dwentz.xyz"
+    ],
+    "snapshot_provider": "",
+    "coin_type": "118",
+    "sdk_version": "0.46.8",
+    "addr_prefix": "8ball",
+    "logo": "/logos/8ball.png",
+    "assets": [
+        {
+            "base": "uebl",
+            "symbol": "EBL",
+            "exponent": "6",
+            "coingecko_id": "",
+            "logo": "/logos/8ball.png"
+        }
+    ]
+}

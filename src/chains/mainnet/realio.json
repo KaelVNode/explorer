@@ -1,0 +1,18 @@
+{
+    "chain_name": "realio-network",
+    "api": ["https://realio-api.dwentz.xyz"],
+    "rpc": ["https://realio-rpc.dwentz.xyz"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.6",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "realio",
+    "logo": "/logos/realio.png",
+    "assets": [{
+        "base": "ario,arst",
+        "symbol": "RIO",
+        "exponent": "18",
+        "coingecko_id": "",
+        "logo": "/logos/realio.png"
+    }]
+}
