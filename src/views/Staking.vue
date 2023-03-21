@@ -2,7 +2,7 @@
   <div>
     <b-card
       v-if="pingVals && pingVals.length > 0"
-      title="❤️ HStaking Dikit Jooss ❤️"
+      title="❤️ Staking Dikit Jooss ❤️"
       class="overflow-auto"
     >
       <b-table
