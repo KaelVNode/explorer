@@ -19,7 +19,7 @@ function processMenu() {
       title: 'blockchains',
       children: blockchains,
       tag: `${blockchains.length}`,
-      icon: 'https://ping.pub/logo.svg',
+      icon: 'https://i.ibb.co/Mcz1ptm/2bddaa466c0ff6d3e9702da90266ae05-360-360.jpg',
     })
   }
   chainMenus.push({ header: 'LINKS' })
@@ -27,13 +27,13 @@ function processMenu() {
     chainMenus.push({
       title: 'Mainnet Explorer',
       href: 'https://explorer.kaelvnode.xyz',
-      icon: 'ChromeIcon',
+      icon: 'https://i.ibb.co/Mcz1ptm/2bddaa466c0ff6d3e9702da90266ae05-360-360.jpg',
     })
   } else {
     chainMenus.push({
       title: 'Testnet Explorer',
       href: 'https://explorer.kaelvnode.xyz/',
-      icon: 'LifeBuoyIcon',
+      icon: 'https://i.ibb.co/Mcz1ptm/2bddaa466c0ff6d3e9702da90266ae05-360-360.jpg',
     })
   }
   chainMenus.push({
